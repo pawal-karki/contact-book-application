@@ -96,10 +96,7 @@ contact-management-system/
    - Use "View", "Edit", or "Delete" buttons to manage existing contacts
 
 ## 📸 Screenshots
-
-![Contact List](https://via.placeholder.com/800x400?text=Contact+List+Screenshot)
-![Add Contact Form](https://via.placeholder.com/800x400?text=Add+Contact+Form)
-
+```Comming Soon```
 ## 🔧 Technical Details
 
 ### Model
