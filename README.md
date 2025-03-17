@@ -124,16 +124,6 @@ contact-management-system/
 | POST | /contacts/insert | Creates a new contact |
 | POST | /contacts/update | Updates an existing contact |
 
-## 🛠️ Future Improvements
-
-- [ ] User authentication and authorization
-- [ ] Pagination for large contact lists
-- [ ] Search and filter functionality
-- [ ] Connection pooling for better performance
-- [ ] Input validation and sanitization
-- [ ] Export/import contacts feature
-- [ ] Dark/light theme toggle
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
